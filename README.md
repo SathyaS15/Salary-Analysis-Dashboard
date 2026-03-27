@@ -1,2 +1,40 @@
-# Salary-Analysis-Dashboard
-Power BI dashboard analyzing employee salary trends and insights
+💼 Salary Analysis Dashboard (Power BI)
+📌 Project Overview
+
+This project presents an interactive Salary Analysis Dashboard built using Power BI to explore employee compensation patterns. The dashboard provides insights into salary distribution, role-based pay differences, and the relationship between experience and salary, enabling better data-driven decision-making.
+
+🎯 Objectives
+Analyze salary distribution across different job roles and departments
+Identify high-paying roles and salary trends
+Understand the impact of experience on compensation
+Compare salary variations across different categories
+🛠️ Tools & Technologies
+Power BI
+Microsoft Excel / CSV Dataset
+📊 Key Insights
+Identified significant salary variation across job roles
+Higher experience levels show a positive correlation with salary growth
+Certain departments consistently offer higher average salaries
+Outliers detected in compensation indicating premium or specialized roles
+📷 Dashboard Preview
+
+
+
+
+📁 Project Files
+Salary-Analysis-Dashboard.pbix – Power BI dashboard file
+dataset.csv / dataset.xlsx – Source data
+dashboard.png – Dashboard preview image
+🚀 How to Use
+Download the .pbix file from this repository
+Open it using Power BI Desktop
+Interact with filters and visuals to explore insights
+📈 Features
+Interactive filters (Role, Department, Experience)
+KPI cards for key metrics (Average Salary, Max Salary, etc.)
+Visualizations including bar charts, line charts, and distribution graphs
+User-friendly and clean dashboard layout
+🔮 Future Enhancements
+Add predictive analysis for salary trends
+Integrate real-time data sources
+Enhance dashboard with more advanced DAX calculations
