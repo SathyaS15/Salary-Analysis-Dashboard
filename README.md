@@ -15,7 +15,7 @@ This project presents an interactive Salary Analysis Dashboard built using Power
 
 ## 🛠️ Tools & Technologies
 - Power BI  
-- Microsoft Excel / CSV Dataset  
+- CSV Dataset  
 
 ---
 
@@ -29,7 +29,7 @@ This project presents an interactive Salary Analysis Dashboard built using Power
 
 ## 📁 Project Files
 - `Salary-Analysis-Dashboard.pbix` – Power BI dashboard file  
-- `dataset.csv` / `dataset.xlsx` – Source data  
+- `dataset.csv` / `dataset.csv` – Source data  
 - `dashboard.png` – Dashboard preview image  
 
 ---
